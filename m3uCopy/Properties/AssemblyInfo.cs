@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("m3uCopy")]
-[assembly: AssemblyDescription("Copies files from playlist to destination directory.")]
+[assembly: AssemblyDescription("Copies files from the playlist (e.g. m3u) to the destination directory.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Kristjan Kaitsa")]
 [assembly: AssemblyProduct("m3uCopy")]
